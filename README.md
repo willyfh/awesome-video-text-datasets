@@ -7,11 +7,11 @@ In a survey paper, a list of video-text datasets is often presented. However, ev
 *For each category, the dataset is ordered by the publication year in descending order.*
 
 ## Open Domain
-- **MSR-VTT-Hindi** [[paper](https://link.springer.com/article/10.1007/s00530-021-00816-3)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
+- **MSR-VTT-Hindi** [[paper](https://link.springer.com/article/10.1007/s00530-021-00816-3)][[dataset](https://github.com/alokssingh/MSR-VTT-Hindi-video-captioning)] <br>
 Language: Hindi | Audio: Yes | Year: 2021
 - **MSVD-Turkish** [[paper](https://link.springer.com/article/10.1007/s10590-021-09276-y)][[dataset](https://hucvl.github.io/MSVD-Turkish/)] <br>
 Language: English, Turkish | Audio: No | Year: 2021
-- **VaTeX** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)][[dataset](https://github.com/alokssingh/MSR-VTT-Hindi-video-captioning)] <br>
+- **VaTeX** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)][[dataset](https://eric-xw.github.io/vatex-website/about.html)] <br>
 Language: English, Chinese | Audio: Yes | Year: 2019
 - **MSR-VTT-it** [[paper](https://journals.openedition.org/ijcol/478?lang=it)][[dataset](https://github.com/crux82/msr-vtt-it)] <br>
 Language: English, Italian | Audio: Yes | Year: 2019
