@@ -8,11 +8,11 @@ In a survey paper, even if a reference paper is provided, sometimes it can be no
 - **MSVD** [[paper](https://aclanthology.org/P11-1020/)][[dataset](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)] <br>
 Language: English | Audio: No
 - **MSVD-Turkish** [[paper](https://link.springer.com/article/10.1007/s10590-021-09276-y)][[dataset](https://hucvl.github.io/MSVD-Turkish/)] <br>
-Language: English | Audio: No
+Language: English, Turkish | Audio: No
 - **MSR-VTT** [[paper](https://ieeexplore.ieee.org/document/7780940)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
 Language: English | Audio: Yes
 - **MSR-VTT-Hindi** [[paper](https://link.springer.com/article/10.1007/s00530-021-00816-3)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
-Language: English | Audio: Yes
+Language: Hindi | Audio: Yes
 - **VaTeX** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)][[dataset](https://github.com/alokssingh/MSR-VTT-Hindi-video-captioning)] <br>
 Language: English, Chinese | Audio: Yes
 
@@ -27,5 +27,7 @@ Language: English | Audio: No
 Language: English | Audio: Yes
 
 ## Instructional
+- **HowTo100M** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Miech_HowTo100M_Learning_a_Text-Video_Embedding_by_Watching_Hundred_Million_Narrated_ICCV_2019_paper.pdf)][[dataset](https://www.di.ens.fr/willow/research/howto100m/)] <br>
+Language: English | Audio: No
 
 ## Indoor
