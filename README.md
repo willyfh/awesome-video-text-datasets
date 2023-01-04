@@ -4,31 +4,35 @@ A curated list of video-text datasets, which can be used for video captioning (v
 
 In a survey paper, a list of video-text datasets is often presented. However, even if the reference papers for the datasets are provided, sometimes it can be not easy to find the datasets due to the missing information on where the location of the datasets exactly. Moreover, the existing survey papers commonly only focus on the datasets with only English captions. This repository is made to help researchers in finding video-text datasets for any language.
 
+*For each category, the dataset is ordered by the publication year in descending order.*
+
 ## Open Domain
-- **MSR-VTT** [[paper](https://ieeexplore.ieee.org/document/7780940)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
-Language: English | Audio: Yes | Year: 2016
 - **MSR-VTT-Hindi** [[paper](https://link.springer.com/article/10.1007/s00530-021-00816-3)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
 Language: Hindi | Audio: Yes | Year: 2021
-- **MSR-VTT-it** [[paper](https://journals.openedition.org/ijcol/478?lang=it)][[dataset](https://github.com/crux82/msr-vtt-it)] <br>
-Language: English, Italian | Audio: Yes | Year: 2019
-- **MSVD** [[paper](https://aclanthology.org/P11-1020/)][[dataset](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)] <br>
-Language: English | Audio: No | Year: 2011
 - **MSVD-Turkish** [[paper](https://link.springer.com/article/10.1007/s10590-021-09276-y)][[dataset](https://hucvl.github.io/MSVD-Turkish/)] <br>
 Language: English, Turkish | Audio: No | Year: 2021
 - **VaTeX** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)][[dataset](https://github.com/alokssingh/MSR-VTT-Hindi-video-captioning)] <br>
 Language: English, Chinese | Audio: Yes | Year: 2019
+- **MSR-VTT-it** [[paper](https://journals.openedition.org/ijcol/478?lang=it)][[dataset](https://github.com/crux82/msr-vtt-it)] <br>
+Language: English, Italian | Audio: Yes | Year: 2019
+- **MSR-VTT** [[paper](https://ieeexplore.ieee.org/document/7780940)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
+Language: English | Audio: Yes | Year: 2016
+- **MSVD** [[paper](https://aclanthology.org/P11-1020/)][[dataset](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)] <br>
+Language: English | Audio: No | Year: 2011
+
 ## Movie
+- **LSMDC** [[paper](https://link.springer.com/article/10.1007/s11263-016-0987-1)][[dataset](https://sites.google.com/site/describingmovies/download?authuser=0)] <br>
+Language: English | Audio: Yes | Year: 2017
 - **MPII-MD** [[paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf)][[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset
 )] <br>
 Language: English | Audio: Yes | Year: 2015
-- **LSMDC** [[paper](https://link.springer.com/article/10.1007/s11263-016-0987-1)][[dataset](https://sites.google.com/site/describingmovies/download?authuser=0)] <br>
-Language: English | Audio: Yes | Year: 2017
+
 
 ## Cooking
-- **YouCook** [[paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Das_A_Thousand_Frames_2013_CVPR_paper.pdf)][[dataset](https://web.eecs.umich.edu/~jjcorso/r/youcook/)] <br>
-Language: English | Audio: No | Year: 2013
 - **YouCook2** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/12342)][[dataset](http://youcook2.eecs.umich.edu/)] <br>
 Language: English | Audio: Yes | Year: 2018
+- **YouCook** [[paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Das_A_Thousand_Frames_2013_CVPR_paper.pdf)][[dataset](https://web.eecs.umich.edu/~jjcorso/r/youcook/)] <br>
+Language: English | Audio: No | Year: 2013
 
 ## Instructional
 - **HowTo100M** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Miech_HowTo100M_Learning_a_Text-Video_Embedding_by_Watching_Hundred_Million_Narrated_ICCV_2019_paper.pdf)][[dataset](https://www.di.ens.fr/willow/research/howto100m/)] <br>
