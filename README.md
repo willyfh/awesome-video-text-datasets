@@ -2,13 +2,15 @@
 
 A curated list of datasets for video captioning.
 
-In a survey paper, even if a reference paper is provided, sometimes it can be not easy to find the dataset due to the missing information on where the location of the dataset exactly. Moreover, the existing survey commonly only focuses on the dataset with only English captions. This repository is made to help researchers in finding video captioning datasets for any languages.
+In a survey paper for video captioning, a list of video captioning datasets is often presented. However, even if the reference papers for the datasets are provided, sometimes it can be not easy to find the datasets due to the missing information on where the location of the datasets exactly. Moreover, the existing survey papers commonly only focus on the datasets with only English captions. This repository is made to help researchers in finding video captioning datasets for any language.
 
 ## Open Domain
 - **MSR-VTT** [[paper](https://ieeexplore.ieee.org/document/7780940)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
 Language: English | Audio: Yes
 - **MSR-VTT-Hindi** [[paper](https://link.springer.com/article/10.1007/s00530-021-00816-3)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
 Language: Hindi | Audio: Yes
+- **MSR-VTT-it** [[paper](https://journals.openedition.org/ijcol/478?lang=it)][[dataset](https://github.com/crux82/msr-vtt-it)] <br>
+Language: English, Italian | Audio: Yes
 - **MSVD** [[paper](https://aclanthology.org/P11-1020/)][[dataset](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)] <br>
 Language: English | Audio: No
 - **MSVD-Turkish** [[paper](https://link.springer.com/article/10.1007/s10590-021-09276-y)][[dataset](https://hucvl.github.io/MSVD-Turkish/)] <br>
