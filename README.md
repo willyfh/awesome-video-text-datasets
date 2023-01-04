@@ -2,7 +2,7 @@
 
 A curated list of video-text datasets, which can be used for video captioning (video description) or video retrieval.
 
-In a survey paper, a list of video-text datasets is often presented. However, even if the reference papers for the datasets are provided, sometimes it can be not easy to find the datasets due to the missing information on where the location of the datasets exactly. Moreover, the existing survey papers commonly only focus on the datasets with only English captions. This repository is made to help researchers in finding video-text datasets for any language.
+In a survey paper, a list of video-text datasets is often presented. However, even if the reference papers for the datasets are provided, sometimes it can be not easy to find the datasets due to the missing information on where the location of the datasets exactly. Moreover, the existing survey papers commonly only focus on the datasets with monolingual English captions. This repository is made to help researchers in finding video-text datasets for any language, including multilingual datasets.
 
 *For each category, the dataset is ordered by the publication year in descending order.*
 
@@ -17,6 +17,8 @@ Language: English, Chinese | Audio: Yes | Year: 2019
 Language: English, Italian | Audio: Yes | Year: 2019
 - **MSR-VTT** [[paper](https://ieeexplore.ieee.org/document/7780940)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
 Language: English | Audio: Yes | Year: 2016
+- **TGIF** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf)][[dataset](https://github.com/raingo/TGIF-Release)] <br>
+Language: English | Audio: No | Year: 2016
 - **MSVD** [[paper](https://aclanthology.org/P11-1020/)][[dataset](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)] <br>
 Language: English | Audio: No | Year: 2011
 
