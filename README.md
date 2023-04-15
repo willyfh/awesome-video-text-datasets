@@ -15,6 +15,8 @@ Language: English, Turkish | Audio: No | Year: 2021
 Language: English, Chinese | Audio: Yes | Year: 2019
 - **MSR-VTT-it** [[paper](https://journals.openedition.org/ijcol/478?lang=it)][[dataset](https://github.com/crux82/msr-vtt-it)] <br>
 Language: English, Italian | Audio: Yes | Year: 2019
+- **MSVD-CN** [[dataset](https://github.com/mcislab-machine-learning/MSVD-CN)] <br>
+Language: Chinese | Audio: No | Year: 2018
 - **MSR-VTT** [[paper](https://ieeexplore.ieee.org/document/7780940)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
 Language: English | Audio: Yes | Year: 2016
 - **TGIF** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf)][[dataset](https://github.com/raingo/TGIF-Release)] <br>
