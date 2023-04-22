@@ -17,6 +17,8 @@ Language: English, Chinese | Audio: Yes | Year: 2019
 Language: English, Italian | Audio: Yes | Year: 2019
 - **MSVD-CN** [[dataset](https://github.com/mcislab-machine-learning/MSVD-CN)] <br>
 Language: Chinese | Audio: No | Year: 2018
+- **ActivityNet Captions** [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)][[dataset](https://cs.stanford.edu/people/ranjaykrishna/densevid/)] <br>
+Language: English | Audio: Yes | Year: 2017
 - **MSR-VTT** [[paper](https://ieeexplore.ieee.org/document/7780940)][[dataset](https://github.com/VisionLearningGroup/caption-guided-saliency/issues/6)] <br>
 Language: English | Audio: Yes | Year: 2016
 - **TGIF** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf)][[dataset](https://github.com/raingo/TGIF-Release)] <br>
