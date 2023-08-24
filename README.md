@@ -9,6 +9,8 @@ In a survey paper, a list of video-text datasets is often presented. However, ev
 ## Open Domain
 - **MSVD-Indonesian** [[paper](https://arxiv.org/abs/2306.11341)][[dataset](https://github.com/willyfh/msvd-indonesian)] <br>
 Language: Indonesian | Audio: No | Year: 2023
+- **ChinaOpen** [[paper](https://arxiv.org/pdf/2305.05880.pdf)][[dataset](https://ruc-aimc-lab.github.io/ChinaOpen/)] <br>
+Language: Chinese, English | Audio: Yes | Year: 2023
 - **MSR-VTT-Hindi** [[paper](https://link.springer.com/article/10.1007/s00530-021-00816-3)][[dataset](https://github.com/alokssingh/MSR-VTT-Hindi-video-captioning)] <br>
 Language: Hindi | Audio: Yes | Year: 2021
 - **MSVD-Turkish** [[paper](https://link.springer.com/article/10.1007/s10590-021-09276-y)][[dataset](https://hucvl.github.io/MSVD-Turkish/)] <br>
