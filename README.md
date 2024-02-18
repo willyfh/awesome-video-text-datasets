@@ -1,6 +1,6 @@
 # Awesome Video-Text Datasets
 
-A curated list of video-text datasets in a variety of languages. These datasets can be used for video captioning (video description) or video retrieval.
+A curated list of video-text datasets in a variety of languages. These datasets can be used for video captioning (video description) or video retrieval. Please feel free to send a pull request to update the list and contribute your changes.
 
 In a survey paper, a list of video-text datasets is often presented. However, even if the reference papers for the datasets are provided, sometimes it can be not easy to find the datasets due to the missing information on where the location of the datasets exactly. Moreover, the existing survey papers commonly only focus on the datasets with monolingual English captions. This repository is made to help researchers in finding video-text datasets for any language, including multilingual datasets.
 
